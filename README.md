@@ -116,7 +116,7 @@ Las funcionalidades de gestión completa de pedidos, generación de número de p
 
 Repositorio oficial del proyecto:
 
-[POR COMPLETAR]
+https://github.com/yairmb2713/UPVM-CAFE
 
 ## Materia
 
